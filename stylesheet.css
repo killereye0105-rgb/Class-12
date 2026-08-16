@@ -8,13 +8,15 @@ body{
       }
       .header {
         background-color:#F1ECE1;
-        color:#3D2314;
         display: flex;
         justify-content: space-between;
         padding: 1rem;
         align-items: center;
         position: sticky;
+      }
+      .header a{
         text-decoration: none;
+        color:#3D2314;
       }
       
       
