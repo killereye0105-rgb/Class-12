@@ -1,0 +1,20 @@
+body{
+    background-color: #FAF8F5;
+    width: 100%;
+    font-family:sans-serif;
+}
+      body {
+        margin: 0;
+      }
+      .header {
+        background-color:#F1ECE1;
+        color:#3D2314;
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        align-items: center;
+        position: sticky;
+        text-decoration: none;
+      }
+      
+      
