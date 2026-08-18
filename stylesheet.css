@@ -165,3 +165,10 @@ body{
           padding: 10px;
         }
       }
+      .rating-count{
+        display: right;
+        opacity: 0.5;
+      .star{
+        color: rgb(223, 190, 4);
+        opacity: 1;
+      }
